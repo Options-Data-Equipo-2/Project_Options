@@ -6,8 +6,11 @@ El stream de datos seleccionado, proviene de la plataforma de datos Massive, la 
 El enlace a la API y a su documentación es el siguiente: 
 
 <https://massive.com/dashboard>
+
 <https://massive.com/docs/websocket>
+
 <https://massive.com/docs>
+
 <https://massive.com/stocks/websocket>
 
 Ésta API permite suscribirse a distintos tipos de eventos de mercado como trades, quotes y agregaciones de precio por minuto.
