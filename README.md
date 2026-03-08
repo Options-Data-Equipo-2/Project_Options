@@ -1,4 +1,4 @@
-# Project_Options
+# Proyecto Stream de datos de Massive: base de datos agregaciones de precio para acciones
 
 ## Enlaces a la API y documentación del stream
 El stream de datos seleccionado, proviene de la plataforma de datos Massive, la cual se encarga de recopilar datos financieros y proporciona un acceso al mercado en tiempo real a través de APIs y WebSockets actualizandose instantaneamente y en tiempo real, pues obtiene datos de las bolsas financieras más importantes del mundo.
